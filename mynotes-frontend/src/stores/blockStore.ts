@@ -1,5 +1,5 @@
 import { create } from 'zustand';
-import { BlockState, Block, BlockRequest } from '@/types';
+import { BlockState, BlockRequest } from '@/types';
 import { blockService } from '@/services/blockService';
 
 export const useBlockStore = create<BlockState>((set, get) => ({
