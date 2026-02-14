@@ -2,7 +2,7 @@ import { create } from 'zustand';
 import { BlockState, BlockRequest } from '@/types';
 import { blockService } from '@/services/blockService';
 
-export const useBlockStore = create<BlockState>((set, get) => ({
+export const useBlockStore = create<BlockState>((set) => ({
   blocks: [],
   currentPage: null,
   rootPages: [],
