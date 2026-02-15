@@ -186,13 +186,16 @@ Frontend runs at `http://localhost:3000`
 ## 📸 Screenshots
 
 ### Login Page
-![Login](<img width="1919" height="937" alt="image" src="https://github.com/user-attachments/assets/d109fdad-805a-4130-b36a-9e8fd8d82eb4" />)
+![Login]
+<img width="1919" height="937" alt="image" src="https://github.com/user-attachments/assets/d109fdad-805a-4130-b36a-9e8fd8d82eb4" />
 
 ### Editor View
-![Editor](<img width="1919" height="935" alt="image" src="https://github.com/user-attachments/assets/ef48f78e-4dfe-4628-9687-8c77e945f07f" />)
+![Editor]
+<img width="1919" height="935" alt="image" src="https://github.com/user-attachments/assets/ef48f78e-4dfe-4628-9687-8c77e945f07f" />
 
 ### Slash Commands
-![Commands](<img width="349" height="187" alt="image" src="https://github.com/user-attachments/assets/220315af-ca5d-47e6-8923-9daf582cd578" />)
+![Commands]
+<img width="349" height="187" alt="image" src="https://github.com/user-attachments/assets/220315af-ca5d-47e6-8923-9daf582cd578" />
 
 ---
 
