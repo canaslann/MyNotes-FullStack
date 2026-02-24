@@ -1,13 +1,10 @@
 # 📝 MyNotes - Notion-Like Note-Taking App
 
 <div align="center">
-
-![MyNotes Banner](https://img.shields.io/badge/MyNotes-Your%20Thoughts%20Our%20Mission-7d49de?style=for-the-badge)
-
+   
 A modern, Notion-inspired note-taking application with a refined brutalist design aesthetic. Built with React, TypeScript, Spring Boot, and Firebase.
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Now-7d49de?style=for-the-badge)](https://frontend-production-5b37.up.railway.app/login)
-[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
+[![Live](https://img.shields.io/badge/Live%20Demo-Visit%20Now-7d49de?style=for-the-badge)](https://frontend-production-5b37.up.railway.app/login)
 
 [Features](#-features) • [Tech Stack](#-tech-stack) • [Getting Started](#-getting-started) • [Deployment](#-deployment) • [Screenshots](#-screenshots)
 
