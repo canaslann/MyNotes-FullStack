@@ -4,7 +4,7 @@
    
 A modern, Notion-inspired note-taking application with a refined brutalist design aesthetic. Built with React, TypeScript, Spring Boot, and Firebase.
 
-[![Live](https://img.shields.io/badge/Live%20Demo-Visit%20Now-7d49de?style=for-the-badge)](https://frontend-production-5b37.up.railway.app/login)
+[![Live](https://img.shields.io/badge/Live%20-Visit%20Now-7d49de?style=for-the-badge)](https://frontend-production-5b37.up.railway.app/login)
 
 [Features](#-features) • [Tech Stack](#-tech-stack) • [Getting Started](#-getting-started) • [Deployment](#-deployment) • [Screenshots](#-screenshots)
 
